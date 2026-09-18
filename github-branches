@@ -1,0 +1,4 @@
+git branch -vv
+  bug-fix-revert 64ab13c [origin/bug-fix-revert] Revert "Fix typo in README.md copyright year."
+  bug-fix-typo   a0ac909 [origin/bug-fix-typo] Fix typo in README.md copyright year.
+* main           a0ac909 [origin/main] Fix typo in README.md copyright year.
