@@ -1,0 +1,28 @@
+curl https://api.github.com/repos/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub/pulls/11490
+{
+  "html_url": "https://github.com/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub/pull/11490",
+  "number": 11490,
+  "state": "closed",
+  "title": "Revert bug fix - bug-fix-revert",
+  "user": {
+    "login": "insurancegod"
+  },
+  "head": {
+    "label": "insurancegod:bug-fix-revert",
+    "ref": "bug-fix-revert",
+    "repo": {
+      "full_name": "insurancegod/mcino-Introduction-to-Git-and-GitHub",
+      "html_url": "https://github.com/insurancegod/mcino-Introduction-to-Git-and-GitHub",
+      "fork": true
+    }
+  },
+  "base": {
+    "label": "ibm-developer-skills-network:main",
+    "ref": "main",
+    "repo": {
+      "full_name": "ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub",
+      "html_url": "https://github.com/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub",
+      "fork": false
+    }
+  }
+}
