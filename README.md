@@ -1,1 +1,16 @@
-A simple interest calculator computes the interest earned or paid on a principal amount without the effects of compounding. It uses the formula I = Prt (or SI = (P × R × T) / 100), where I is the interest, P is the principal, r (or R) is the annual interest rate, and t (or T) is the time in years. These calculators typically allow you to input the principal, rate, and time to find the total interest and the final balance (Principal + Interest).
+# Introduction to Git and GitHub
+
+## Simple Interest Calculator
+
+A calculator that calculates simple interest given principal, annual rate of interest and time period in years.
+
+```
+Input:
+   p, principal amount
+   t, time period in years
+   r, annual rate of interest
+Output
+   simple interest = p*t*r
+```
+
+_© 2022 XYZ, Inc._
